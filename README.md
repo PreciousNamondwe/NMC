@@ -1,2 +1,0 @@
-# NMC
-Namondwe Medical Center
